@@ -1,0 +1,2 @@
+rootProject.name = "FastPixelApp"
+include ':app'
